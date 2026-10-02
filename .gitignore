@@ -1,0 +1,18 @@
+# Laravel
+backend/vendor/
+backend/.env
+backend/storage/logs/
+backend/bootstrap/cache/
+
+# React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
